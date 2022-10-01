@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<APIProxy revision="1" name="OAuth-v2">
+    <Basepaths>/oauth-v2</Basepaths>
+    <ConfigurationVersion majorVersion="4" minorVersion="0"/>
+    <CreatedAt>1664372456304</CreatedAt>
+    <CreatedBy>new@user.com</CreatedBy>
+    <Description></Description>
+    <DisplayName>OAuth-v2</DisplayName>
+    <LastModifiedAt>1664442503517</LastModifiedAt>
+    <LastModifiedBy>new@user.com</LastModifiedBy>
+    <ManifestVersion>SHA-512:3173997d0fa9f040a316df4b8990e5459296085ee62b24453dc4e05a7c545ae870ae332f31bd409d9693b937aed813455dcf9fc24ff376c8be9cd900aa920c77:dc-1</ManifestVersion>
+    <Policies>
+        <Policy>EV-ExtractGrantType</Policy>
+        <Policy>GenerateClientCredentialsAccessToken</Policy>
+    </Policies>
+    <ProxyEndpoints>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </ProxyEndpoints>
+    <Resources/>
+    <Spec></Spec>
+    <TargetServers/>
+    <TargetEndpoints/>
+</APIProxy>

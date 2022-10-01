@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ExtractVariables async="false" continueOnError="false" enabled="true" name="EV-ExtractGrantType">
+    <DisplayName>EV-ExtractGrantType</DisplayName>
+    <Properties/>
+    <Header name="grant_type">
+        <Pattern ignoreCase="false">{grant_type}</Pattern>
+    </Header>
+    <Header name="client_id">
+        <Pattern ignoreCase="false">{client_id}</Pattern>
+    </Header>
+    <Header name="client_secret">
+        <Pattern ignoreCase="false">{client_secret}</Pattern>
+    </Header>
+</ExtractVariables>

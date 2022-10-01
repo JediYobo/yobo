@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Manifest name="manifest">
+    <Policies>
+        <VersionInfo resourceName="EV-ExtractGrantType" version="SHA-512:1e217e4352e1ee4571a843fbf6d1b67ace140569d594991377ce60be6b7e56aeaea32b958b4a90416cb9ade47ff240ea0d9c8910f3cbecc9a649b8dfc672fc1f"/>
+        <VersionInfo resourceName="GenerateClientCredentialsAccessToken" version="SHA-512:bd0ab719bde40e51be1c483656356d5cf2a0ac2c1da63a9f46b2f3fb611829cf2057410c7ce2efb79519c16e35ccb11d0e9a73fe5837d502a5a54027c119a74f"/>
+    </Policies>
+    <ProxyEndpoints>
+        <VersionInfo resourceName="default" version="SHA-512:291c3a65ce134b97cc0e439b5787a42ea1e49deae89d3ff854738a14928e2ed21aa118bb63fd13047d942dbc33445c3598bfcbc405f406758c7f47dcfee3004b"/>
+    </ProxyEndpoints>
+    <Resources/>
+    <SharedFlows/>
+    <TargetEndpoints/>
+</Manifest>
